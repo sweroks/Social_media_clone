@@ -10,4 +10,4 @@ A social media clone app with functionalities of
  
 #Frameworks/Technology
 1. Django, Python
-2. HTML,CSS
+2. HTML,CSS,Javascript
